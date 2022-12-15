@@ -184,3 +184,5 @@ if __name__ == '__main__':
     bot.run(os.environ['BOT_TOKEN'])
     
 # Bot Discord MIHAI
+
+Tipa am adaugat argpaprse donte tell anyone.
